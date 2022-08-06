@@ -1,4 +1,5 @@
 import prj1 from './ss1.png';
+import ntkr from './image.png';
 import './App.css';
 
 function App() {
@@ -78,9 +79,9 @@ function App() {
           <section className="w3-container w3-black w3-center">
             <a href="https://ghiasfarah.github.io/Horieson/"><img src="https://user-images.githubusercontent.com/101944347/163080140-2e8210a0-548d-49fe-9b56-271c8d7073f8.png" height="200px" width="250px" alt="project 1" style={imgStyle}/></a>
             <a href="https://ghiasfarah.github.io/random_password_generator/"><img src="https://user-images.githubusercontent.com/101944347/163077588-5e67cabf-d1ad-4672-9c0a-20e741eecb3a.png" height="200px" width="250px" alt="project 2" style={imgStyle}/></a>
-            <a href="https://ghiasfarah.github.io/random_password_generator/"><img src={prj1} height="200px" width="250px" alt="project 3" style={imgStyle}/></a>
-            <a href="https://ghiasfarah.github.io/random_password_generator/"><img src="https://github.com/GhiasFarah/Day_planner/raw/main/Assets/05-third-party-apis-homework-demo.gif" height="200px" width="250px" alt="project 4" style={imgStyle}/></a>
-            <a href="https://ghiasfarah.github.io/random_password_generator/"><img src="https://courses.bootcampspot.com/courses/1655/files/1853656/preview" height="200px" width="250px" alt="project 5" style={imgStyle}/></a>
+            <a href="https://ah-fang.github.io/projectfun/"><img src={prj1} height="200px" width="250px" alt="project 3" style={imgStyle}/></a>
+            <a href="https://ghiasfarah.github.io/Day_planner/"><img src="https://github.com/GhiasFarah/Day_planner/raw/main/Assets/05-third-party-apis-homework-demo.gif" height="200px" width="250px" alt="project 4" style={imgStyle}/></a>
+            <a href="https://intense-island-29326.herokuapp.com/notes"><img src={ntkr} height="200px" width="250px" alt="project 5" style={imgStyle}/></a>
             <a href="https://adventure-reviews.herokuapp.com/"><img src="https://raw.githubusercontent.com/GhiasFarah/travel-advice-express/main/public/image/travel-story-3.png" height="200px" width="250px" alt="project 6" style={imgStyle}/></a>
             <hr />
           </section>
